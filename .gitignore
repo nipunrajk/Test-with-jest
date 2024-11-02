@@ -1,0 +1,29 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+/dist/
+/.nuxt/
+
+# Ignore logs and cache files
+*.log
+.nuxt/
+.cache/
+
+# Ignore environment variables file
+.env
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore test coverage reports
+/coverage/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore Jest cache directory
+/.jest/
+
+# Ignore any other files or directories specific to your project

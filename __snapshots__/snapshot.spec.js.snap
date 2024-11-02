@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`user matches 1`] = `
+{
+  "age": "25",
+  "job": "Developer",
+  "name": "Nipun Raj k",
+}
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`favourite movies can add a movie 1`] = `
+[
+  {
+    "rate": 9,
+    "title": "chapter 3",
+  },
+  {
+    "rate": null,
+    "title": "john wick",
+  },
+]
+`;
+
+exports[`favourite movies rate a movie 1`] = `
+[
+  {
+    "rate": 5,
+    "title": "chapter 3",
+  },
+]
+`;
